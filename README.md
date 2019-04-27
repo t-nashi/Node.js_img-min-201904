@@ -4,6 +4,12 @@
 
 
 
+## 解説サイト
+* [[Mac & Win][デザイナー向け] TinyPNGのような画像圧縮環境をPCローカルで構築する（自動処理＆サブディレクトリも対応） | これを読めば思い出す ](https://www.koreyome.com/web/local-img-compression-like-tinypng/)
+<br><br><br>
+
+
+
 ## このサンプル制作時の環境
 ◆ Mac
 * macOS Mojave（バージョン 10.14.4）
